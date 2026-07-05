@@ -1,6 +1,6 @@
 [
   { "name": "Izan Guevara", "team": "Blu Cru Pramac Yamaha Moto2", "number": 28, "country": "Spain" },
-  { "name": "Alberto Fernández", "team": "Blu Cru Pramac Yamaha Moto2", "number": 54, "country": "Spain" },
+  { "name": "Alberto Ferrández", "team": "Blu Cru Pramac Yamaha Moto2", "number": 54, "country": "Spain" },
 
   { "name": "Arón Canet", "team": "Elf Marc VDS Racing Team", "number": 44, "country": "Spain" },
   { "name": "Deniz Öncü", "team": "Elf Marc VDS Racing Team", "number": 53, "country": "Turkey" },
@@ -16,9 +16,10 @@
 
   { "name": "Barry Baltus", "team": "Fantic Racing", "number": 7, "country": "Belgium" },
   { "name": "Tony Arbolino", "team": "Fantic Racing", "number": 14, "country": "Italy" },
-  { "name": "Mario Aji", "team": "Fantic Racing", "number": 64, "country": "Indonesia" },
 
+  { "name": "Mario Aji", "team": "Idemitsu Honda Team Asia", "number": 64, "country": "Indonesia" },
   { "name": "Taiyo Furusato", "team": "Idemitsu Honda Team Asia", "number": 72, "country": "Japan" },
+
   { "name": "Sergio García", "team": "Italjet Gresini Moto2", "number": 3, "country": "Spain" },
   { "name": "Alonso López", "team": "Italjet Gresini Moto2", "number": 21, "country": "Spain" },
 
@@ -31,6 +32,6 @@
   { "name": "Filip Salač", "team": "OnlyFans American Racing Team", "number": 12, "country": "Czech Republic" },
   { "name": "Joe Roberts", "team": "OnlyFans American Racing Team", "number": 16, "country": "USA" },
 
-  { "name": "Iván Ortolá", "team": "QJMotor - Frinsa - MSi", "number": 4, "country": "Spain" },
-  { "name": "Ángel Piqueras", "team": "QJMotor - Frinsa - MSi", "number": 36, "country": "Spain" }
+  { "name": "Iván Ortolá", "team": "QJMotor – Frinsa – MSi", "number": 4, "country": "Spain" },
+  { "name": "Ángel Piqueras", "team": "QJMotor – Frinsa – MSi", "number": 36, "country": "Spain" }
 ]
