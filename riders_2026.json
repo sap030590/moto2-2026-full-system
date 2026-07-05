@@ -1,0 +1,39 @@
+[
+  { "name": "Eddie O'Shea", "team": "MLav Racing", "number": 8, "country": "UK" },
+  { "name": "Joel Kelso", "team": "MLav Racing", "number": 66, "country": "Australia" },
+
+  { "name": "Veda Ega Pratama", "team": "Honda Team Asia", "number": 9, "country": "Indonesia" },
+  { "name": "Zen Mitani", "team": "Honda Team Asia", "number": 32, "country": "Japan" },
+
+  { "name": "Adrián Fernández", "team": "Leopard Racing", "number": 31, "country": "Spain" },
+  { "name": "Guido Pini", "team": "Leopard Racing", "number": 94, "country": "Italy" },
+
+  { "name": "Nicola Carraro", "team": "Rivacold Snipers Team", "number": 10, "country": "Italy" },
+  { "name": "Jesús Ríos", "team": "Rivacold Snipers Team", "number": 54, "country": "Spain" },
+
+  { "name": "Leo Rammerstorfer", "team": "SIC58 Squadra Corse", "number": 5, "country": "Austria" },
+  { "name": "Casey O'Gorman", "team": "SIC58 Squadra Corse", "number": 67, "country": "Ireland" },
+
+  { "name": "Máximo Quiles", "team": "CFMoto Aspar Team", "number": 28, "country": "Spain" },
+  { "name": "Marco Morelli", "team": "CFMoto Aspar Team", "number": 97, "country": "Italy" },
+
+  { "name": "Adrián Cruces", "team": "CIP Green Power", "number": 11, "country": "Spain" },
+  { "name": "Scott Ogden", "team": "CIP Green Power", "number": 19, "country": "UK" },
+
+  { "name": "Cormac Buchanan", "team": "Code Motopors", "number": 14, "country": "New Zealand" },
+  { "name": "Ruché Moodley", "team": "Code Motopors", "number": 21, "country": "South Africa" },
+
+  { "name": "Ryusei Yamanaka", "team": "Frinsa - MT Helmets - MSI", "number": 6, "country": "Japan" },
+  { "name": "Hakim Danish", "team": "Frinsa - MT Helmets - MSI", "number": 13, "country": "Malaysia" },
+  { "name": "Matteo Bertelle", "team": "Frinsa - MT Helmets - MSI", "number": 18, "country": "Italy" },
+
+  { "name": "Joel Esteban", "team": "Liqui Moly Dynavolt Intact GP", "number": 78, "country": "Spain" },
+  { "name": "David Almansa", "team": "Liqui Moly Dynavolt Intact GP", "number": 17, "country": "Spain" },
+  { "name": "David Muñoz", "team": "Liqui Moly Dynavolt Intact GP", "number": 64, "country": "Spain" },
+
+  { "name": "Brian Uriarte", "team": "Red Bull KTM Ajo", "number": 51, "country": "Spain" },
+  { "name": "Álvaro Carpe", "team": "Red Bull KTM Ajo", "number": 83, "country": "Spain" },
+
+  { "name": "Rico Salmela", "team": "Red Bull KTM Tech3", "number": 27, "country": "Finland" },
+  { "name": "Valentín Perrone", "team": "Red Bull KTM Tech3", "number": 73, "country": "Argentina" }
+]
